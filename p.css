@@ -1,0 +1,33 @@
+.photo img{height:200px;
+   width:200px;
+   border-radius:50%;
+   margin:auto; 
+ position: relative;
+ bottom:250px;
+ left:50px;
+   }
+  .name{
+	   margin:150px;
+	   background-color:gray; 
+bottom: auto;	   
+   }
+   .dot{
+	   margin-top:30px;
+	   margin-left:340px;
+	   float:left;
+	   color:blue;
+	   background-color:white;
+   }
+   .info{
+	   float:right;
+	   color:green;
+	   background-color:black;
+   }
+   .bar{
+	   float:right;
+   }
+   
+ p{
+	 font-size:20px;
+ }
+ 
